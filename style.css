@@ -66,6 +66,15 @@ display: block;
 margin: 10px 0;
 }
 
+.fundo{
+    position:relative;
+    left: 10;
+}
+
+.fundo img{
+display: block;
+}
+
 .container2{
    
         position:static;
